@@ -1,0 +1,10 @@
+#compdef cleos
+#
+# title:      ZSH COMPLETION FOR CLEOS
+# version:    0.0.1
+# repository: https://github.com/OWDIN/cleos-zsh-completion
+#
+# Install: curl -fLo ~/.oh-my-zsh/plugins/cleos/_cleos https://raw.githubusercontent.com/OWDIN/cleos-zsh-completion/master/_cleos
+#
+
+# Work in Progress...
