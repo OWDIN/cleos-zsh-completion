@@ -74,7 +74,7 @@ compdef _cleos cleos cleos2 cleos3
 ```
 
 ## Authors
-- CHANN - @channprj
+- CHANN - [@channprj](https://github.com/channprj)
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more detail.
