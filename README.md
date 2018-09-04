@@ -6,7 +6,7 @@
 </p>
 
 
-**cleos-zsh-completion** is additional completion for cleos. It  zsh-completion. It provides the short description about each command and auto-complete with your tab/arrow keys.
+**cleos-zsh-completion** is additional completion for cleos. It provides the short description about each command and auto-complete with your tab/arrow keys.
 
 Use cleos with your <kbd>tab</kbd> key or <kbd>↑</kbd> <kbd>↓</kbd> arrow keys. :relaxed:
 
