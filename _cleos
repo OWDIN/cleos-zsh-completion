@@ -29,7 +29,7 @@
 # -----------
 #
 # Completion script for cleos
-# * Repo: https://github.com/owdin
+# * Repo: https://github.com/OWDIN/cleos-zsh-completion
 # * Reference:
 #   - https://developers.eos.io/eosio-nodeos/docs/cleos-overview
 #   - http://zsh.sourceforge.net/Doc/Release/Completion-System.html
